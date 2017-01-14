@@ -11,7 +11,7 @@ Découverte de NodeJS
 - Connaître ses forces et limites
 - Identifier les modules les plus courants 
 
-## Sildeshow :
+## Présentation :
 
 [openhoat.github.io/lab-nodejs](https://openhoat.github.io/lab-nodejs/)
 

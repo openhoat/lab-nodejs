@@ -17,6 +17,8 @@ Découverte de NodeJS
 
 [openhoat.github.io/lab-nodejs](https://openhoat.github.io/lab-nodejs/)
 
+<!--
 ## Ressources :
 
 - https://github.com/JustinDrake/node-es6-examples
+-->

@@ -1,0 +1,2 @@
+Maintenant un cas classique web, où l'on interagit avec une base mongodb, on fait des IO réseaux avec de l'attente :
+On voit clairement le coût croissant de Java, des paliers à franchir avec PHP, et la supériorité de node sur ce use-case.

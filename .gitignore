@@ -1,0 +1,6 @@
+.idea
+*.log
+naught.*
+dist/
+node_modules/
+tmp/

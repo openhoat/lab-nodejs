@@ -1,0 +1,8 @@
+Avec un scan récursif de fichiers :
+Java commence à montrer des signes de faiblesses vers la fin du test, PHP est très bon en IO fichier (normal), node est à la ramasse.
+C'est un des gros points faible, qui j'en suis sûr va s'améliorer (c'est déjà le cas en 0.10).
+A noter, qu'en asynchrone c'est pire (normal aussi).
+
+Donc là on peut déjà se dire, mais c'est quoi ce bordel, on nous aurait menti en disant que node était une "silver bullet" niveau io ?!
+Ici, en fait, on bouffe du cpu/disque, donc on touche la faiblesse de node.
+

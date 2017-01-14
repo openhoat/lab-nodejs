@@ -1,0 +1,4 @@
+Pour résumer : 
+- si je dois faire du calcul / traitement plutôt algorithmique -> à priori négatif avec node tel quel
+- si je dois faire de la grosse gestion de fichier (en dehors d'un pré-traitement d'initialisation qui peut être sync) -> éliminatoire avec node en l'état
+- si je dois interagir avec des systèmes externes (rabbitmq, mongo, ou autres...) -> à priori très positif avec node

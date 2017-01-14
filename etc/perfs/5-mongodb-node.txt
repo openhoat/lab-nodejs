@@ -1,0 +1,2 @@
+On voit ici qu'en arrivant à une grosse charge, même les qualités de node montrent leurs limites, et on se heurte à une forte croissance des temps de réponse, phénomène qu'on peut bien limiter lorsqu'on utilise les clusters.
+Je n'ai malheureusement pas pu faire ce test avec php ou java qui ne tiennent pas jusque 1000 simultanées / 30000.

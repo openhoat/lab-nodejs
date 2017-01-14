@@ -1,0 +1,6 @@
+Compléments pour comprendre le test :
+- node sync : on utilise les api fs en synchrone pour scanner un répertoire récursivement, dans un serveur web, et on renvoie la liste des fichiers dans un doc plain/text aux navigateurs.
+- node async : idem mais avec les api fs asynchrones (celles à utiliser par défaut)
+- node sync java : c'est le serveur node qui sert les requêtes http, mais délègue le scan à la méthode statique d'une classe Java de manière synchrone
+- node async java : idem, mais on délègue à Java de manière asynchrone
+Les imports et chargements de classes Java ne sont évidement pas fait dans le scope de la requête, mais au lancement du serveur node.

@@ -1,0 +1,1 @@
+Java c'est clairement ce qu'il y a de mieux pour faire ce genre de traitement.

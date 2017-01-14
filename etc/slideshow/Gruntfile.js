@@ -31,7 +31,7 @@ module.exports = function(grunt) {
         files: [{
           expand: true,
           cwd: '.',
-          src: ['index.html'],
+          src: ['index.html', 'manifest.json'],
           dest: `${base}/`
         }],
         options: {

@@ -1,0 +1,7 @@
+{
+  "short_name": "Lab NodeJS",
+  "name": "Présentation Lab NodeJS",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "landscape"
+}

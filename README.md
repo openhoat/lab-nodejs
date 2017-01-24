@@ -20,3 +20,12 @@ Découverte de NodeJS
 
 - https://github.com/JustinDrake/node-es6-examples
 -->
+
+## Demo :
+
+- Hello : console, timeout, fs
+- Chat (20 lignes)
+- ls : callback hell et promise
+- http hello, express
+- Chat complet
+- Web app + redis (40 lignes)

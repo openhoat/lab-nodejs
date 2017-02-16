@@ -4,10 +4,8 @@ env:
   node: true
   mocha: true
 extends: ['eslint:recommended', 'nodejs']
-plugins:
-  - async-await
 parserOptions:
-  ecmaVersion: 6
+  ecmaVersion: 2017
   sourceType: module
 rules:
   indent:
@@ -36,8 +34,3 @@ rules:
   arrow-parens: ["warn", "as-needed"]
   arrow-body-style: ["warn", "as-needed"]
   prefer-const: warn
-  node/no-unsupported-features:
-    - error
-    - version: 7
-      ignores:
-        - asyncAwait
